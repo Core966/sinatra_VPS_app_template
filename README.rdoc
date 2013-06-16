@@ -1,3 +1,6 @@
+NOTICE: This following readme is the original, the repository is still under modification and there will be changes in this readme accordingly.
+
+
 = Sinatra Application Template
 
 A base Sinatra application template. Just fork and build. Yay!
