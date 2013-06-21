@@ -28,5 +28,5 @@ namespace :db do
 end
 
 task :environment do
-  require File.join(File.dirname(__FILE__), 'environment')
+  require File.join(File.dirname(__FILE__), 'application.rb')
 end
