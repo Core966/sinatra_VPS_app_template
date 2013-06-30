@@ -39,6 +39,7 @@ class WebApplicationCoreRoutes < DataModel
 
 # root page
 get '/' do
+  @notes = Note.all
   haml :root
 end
 
